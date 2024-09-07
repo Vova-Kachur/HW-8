@@ -1,0 +1,17 @@
+
+.text-box h3:first-of-type {
+    color: pink;
+  }
+:nth-child(3){
+    color:grey;
+}
+:nth-child(5){
+    color:red;
+}
+:nth-child(7){
+    color:green;
+}
+:nth-child(8){
+    color:yellow;
+}
+
