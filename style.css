@@ -1,5 +1,4 @@
-
-.text-box h3:first-of-type {
+.text-box h3:first-of-type{
     color: pink;
   }
 :nth-child(3){
